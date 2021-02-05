@@ -1,0 +1,46 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1463947628408-f8581a2f4aca?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c2t5fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+  background-color: grey;
+  font-family: "Source Code Pro", monospace;
+  margin-bottom: 50px;
+}
+.sidebar {
+  margin-top: 5%;
+}
+.marg {
+  margin-bottom: 20px;
+}
+#fore {
+  font-size: 25px;
+  background-color: lightgreen;
+  margin-left: 20px;
+  padding: 10px;
+}
+.currentWeather {
+  background-color: blue;
+  padding: 70px;
+  margin: 20px;
+}
+#historyItems {
+  background-color: red;
+  font-size: 20px;
+  padding: 30px;
+}
+.border {
+  border: solid black 10px;
+}
+.uvLow {
+  background-color: green;
+}
+.uvModerate {
+  background-color: yellow;
+}
+.uvHigh {
+  background-color: red;
+}
